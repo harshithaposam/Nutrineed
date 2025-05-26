@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/search_food_name"
+        android:title="Food"
+        app:showAsAction="always|withText|collapseActionView"
+        android:icon="@drawable/baseline_fastfood_24"
+        app:actionViewClass="android.widget.SearchView"
+        />
+    <item android:id="@+id/search_food_prepared"
+        android:title="Freshness"
+        app:showAsAction="always|withText|collapseActionView"
+        android:icon="@drawable/baseline_access_time_24"
+        app:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/search_quantity"
+        android:title="Quantity"
+        app:showAsAction="always|withText|collapseActionView"
+        android:icon="@drawable/baseline_people_24"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/search_category"
+        android:title="Category"
+        android:icon="@drawable/baseline_flatware_24"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always|withText|collapseActionView" />
+
+</menu>
+
+    <!--    android:icon="@drawable/baseline_search_24"-->
+    <!--    android:icon="@drawable/baseline_access_time_24"-->

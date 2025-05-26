@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357373504419",
+    "project_id": "nutrineed-83fdb",
+    "storage_bucket": "nutrineed-83fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357373504419:android:23eae27953139a60318816",
+        "android_client_info": {
+          "package_name": "com.example.neednutri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357373504419-mg6qklmklpr2otp703hbg55rk6mssorc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDttLuKfDKzrKpG-ulygbNuffb_2q1F5Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357373504419-mg6qklmklpr2otp703hbg55rk6mssorc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
